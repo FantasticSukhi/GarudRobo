@@ -37,7 +37,7 @@
 - <b>VPS/Local Deployment Method</b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/config.py)
+- Get your [Necessary Variables](https://github.com/FantasticSukhi/GarudRobo/blob/master/FallenRobot/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -45,7 +45,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenRobot && cd FallenRobot`
+`git clone https://github.com/FantasticSukhi/GarudRobo && cd GarudRobo`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
